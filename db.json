@@ -4,6 +4,7 @@
             "id": 1,
             "name": "Test User 1",
             "username": "testuser1",
+            "email": "testuser1@gmail.com",
             "city": "test user 1 city",
             "street": "test user 1 street" 
         },
@@ -11,6 +12,7 @@
             "id": 2,
             "name": "Test User 2",
             "username": "testuser2",
+            "email": "testuser2@gmail.com",
             "city": "test user 2 city",
             "street": "test user 2 street" 
         },
@@ -18,6 +20,7 @@
             "id": 3,
             "name": "Test User 3",
             "username": "testuser3",
+            "email": "testuser3@gmail.com",
             "city": "test user 3 city",
             "street": "test user 3 street" 
         }
