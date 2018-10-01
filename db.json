@@ -27,6 +27,7 @@
     ],
     "posts": [
         {
+            "id": 1,
             "userID": 1,
             "title": "This is just a test 1",
             "description": "This is just a test",
@@ -42,6 +43,7 @@
             ]
         },
         {
+            "id": 2,
             "userID": 2,
             "title": "This is just a test 2",
             "description": "This is just a test 2",
