@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "name": "Test User 1",
+            "username": "testuser1",
+            "city": "test user 1 city",
+            "street": "test user 1 street" 
+        },
+        {
+            "name": "Test User 2",
+            "username": "testuser2",
+            "city": "test user 2 city",
+            "street": "test user 2 street" 
+        },
+        {
+            "name": "Test User 3",
+            "username": "testuser3",
+            "city": "test user 3 city",
+            "street": "test user 3 street" 
+        }
+    ]
+}
