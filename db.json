@@ -1,22 +1,42 @@
 {
     "users": [
         {
+            "id": 1,
             "name": "Test User 1",
             "username": "testuser1",
             "city": "test user 1 city",
             "street": "test user 1 street" 
         },
         {
+            "id": 2,
             "name": "Test User 2",
             "username": "testuser2",
             "city": "test user 2 city",
             "street": "test user 2 street" 
         },
         {
+            "id": 3,
             "name": "Test User 3",
             "username": "testuser3",
             "city": "test user 3 city",
             "street": "test user 3 street" 
+        }
+    ],
+    "posts": [
+        {
+            "userID": 1,
+            "title": "This is just a test 1",
+            "description": "This is just a test",
+            "comments": [
+                {
+                    "userID": 1,
+                    "comment": "Nice Work!"
+                },
+                {
+                    "userID": 2,
+                    "comment": "Great!"
+                }
+            ]
         }
     ]
 }
